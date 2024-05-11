@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Material UI**
 - 📝 I regularly write articles on https://medium.com/@christopherthai
 - 💬 Ask me about **javascript, python, react, & flask**
-- 📫 How to reach me **[christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com)**
+- 📫 How to reach me: **[christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com)**
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 
