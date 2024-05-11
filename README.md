@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning **Material UI**
-📝 I regularly write articles on https://medium.com/@christopherthai
-💬 Ask me about **react, python, javascript, & flask**
-📫 How to reach me **[christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com)**
+- 🌱 I’m currently learning **Material UI**
+- 📝 I regularly write articles on https://medium.com/@christopherthai
+- 💬 Ask me about **react, python, javascript, & flask**
+- 📫 How to reach me **[christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com)**
 
 
 ## 🌐 Socials:
