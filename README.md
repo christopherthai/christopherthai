@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Christopher Thai</h1>
+<h3 align="center">A passionate software engineer from New York</h3>
+
 # 💫 About Me:
 - 🌱 I’m currently learning **Material UI**
 - 📝 I regularly write articles on https://medium.com/@christopherthai
