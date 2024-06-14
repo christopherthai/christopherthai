@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from New York | Specializing in JavaScript, React & Python | Fueled by Innovation and Problem-Solving | Continuously Exploring New Tech Trends and Skills</h3>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Material UI**
+- 🌱 I’m currently learning **Data Structure and Algorithms**
 - 💬 Ask me about **javascript, python, react, & flask**
 - 📫 How to reach me: **[christopherthai.nyli@gmail.com](mailto:christopherthai.nyli@gmail.com)**
 - 📝 I regularly write articles on: https://medium.com/@christopherthai
